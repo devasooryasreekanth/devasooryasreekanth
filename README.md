@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**devasooryasreekanth/devasooryasreekanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🌐 JavaScript Website Project (IZAH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I  help built a complete JavaScript-based website as part of my ISSA work.
+
+🔗 Live Project / Repository:  
+https://github.com/byizah/Jewels.git
+
+🛠️ Tech Used:
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+📌 This project was developed by me and others , maintained by me.
